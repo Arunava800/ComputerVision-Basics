@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+env/
+**/env/
+Computer-Vision-with-Python/
+cvcourse_windows.yml
+Computer-Vision-with-Python.zip
